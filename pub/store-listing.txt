@@ -1,17 +1,18 @@
-Title: Kamloops Transit System Bus -…
+Title: Kamloops Transit System Bus - MonTransit
 ----------
 Short description:
 Kamloops Transit System buses for MonTransit.
-Schedule. Alerts. News.
+Schedule. Real time. News.
 ----------
 What's new in this version?:
 Schedule from September 2, 2018 to April 27, 2019.
+Real-time predictions from NextRide.
 Tweets from @BCTransit.
 ----------
 Full description:
 This app adds Kamloops Transit System (BC Transit) buses information to MonTransit.
 
-This app provides the buses schedule and news from YouTube and @BCTransit on Twitter.
+The app contains the planned schedule as well as real time predictions from NextRide and news from YouTube and @BCTransit on Twitter.
 
 Kamloops Transit System buses serve Kamloops in British Columbia, Canada.
 
@@ -30,7 +31,7 @@ https://github.com/mtransitapps/ca-kamloops-transit-system-bus-android
 This app is not related with BC Transit and Kamloops Transit System.
 
 Permissions:
-- Other: required to read news from YouTube and Twitter
+- Other: required for real-time schedule predictions from nextride.kamloops.bctransit.com and to read news from YouTube and Twitter
 ----------
 Application type: Applications
 ----------
