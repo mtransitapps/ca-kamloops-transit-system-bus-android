@@ -5,7 +5,7 @@ Kamloops Transit System buses for MonTransit.
 Schedule. Real time. News.
 ----------
 What's new in this version?:
-Schedule from September 2, 2018 to April 27, 2019.
+Schedule from December 29, 2018 to April 27, 2019.
 Real-time predictions from NextRide.
 Tweets from @BCTransit.
 ----------
