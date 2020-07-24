@@ -1,27 +1,27 @@
-101,0,'Brocklehurst',1
-100,0,'Downtown',1
-201,0,'Brocklehurst',2
-200,0,'Downtown',2
-300,0,'Downtown',3
-301,0,'Harrington',3
-401,0,'Pacific Way',4
-400,0,'TRU',4
-501,0,'Pineview',5
-500,0,'TRU',5
-601,0,'Downtown Loop',6
-701,0,'Aberdeen',7
-700,0,'Downtown',7
-800,0,'Downtown',8
-801,0,'Gleneagles',8
-901,0,'North Shr Exch',9
-900,0,'TRU',9
-1001,0,'Heffley Crk',10
-1000,0,'North Shr Exch',10
-1100,0,'North Shr Exch',11
-1101,0,'Saddleback',11
-1200,0,'Downtown',12
-1201,0,'Juniper Rdg',12
-1300,0,'Downtown',13
-1301,0,'Wildlife Pk',13
-1402,0,'Downtown',14
-1401,0,'Mt. Paul',14
+36601,0,'Brocklehurst',366
+36600,0,'Downtown',366
+36701,0,'Brocklehurst',367
+36700,0,'Downtown',367
+36800,0,'Downtown',368
+36801,0,'Harrington',368
+36901,0,'Pacific Way',369
+36900,0,'TRU',369
+37001,0,'Pineview',370
+37000,0,'TRU',370
+37101,0,'Downtown Loop',371
+37201,0,'Aberdeen',372
+37200,0,'Downtown',372
+37301,0,'Downtown / Gleneagles',373
+37300,0,'Downtown / Gleneagles',373
+37401,0,'North Shr Exch',374
+37400,0,'TRU',374
+37501,0,'Heffley Crk',375
+37500,0,'North Shr Exch',375
+37600,0,'North Shr Exch',376
+37601,0,'Saddleback',376
+37700,0,'Downtown',377
+37701,0,'Juniper Rdg',377
+37800,0,'Downtown',378
+37801,0,'Wildlife Pk',378
+37902,0,'Downtown',379
+37901,0,'Mt. Paul',379
