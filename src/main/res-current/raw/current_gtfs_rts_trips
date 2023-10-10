@@ -9,7 +9,7 @@
 601,0,'Pineview',6
 600,0,'TRU',6
 701,0,'Downtown Loop',7
-801,0,'Aberdeen',8
+801,0,'Aberdeen / Downtown',8
 800,0,'Downtown',8
 900,0,'Downtown',9
 901,0,'Gleneagles',9
@@ -21,8 +21,8 @@
 1201,0,'Saddleback',12
 1301,0,'Juniper Rdg',13
 1300,0,'TRU',13
+1401,0,'Dallas / Barnhartvale / Wildlife Pk',14
 1400,0,'Downtown',14
-1401,0,'Wildlife Pk',14
 18400,0,'Downtown',184
 18401,0,'Mt Paul',184
 59001,0,'Pacific Way',590
