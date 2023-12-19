@@ -1,26 +1,26 @@
-2,'1','Tranquille','004b8d'
-3,'2','Parkcrest','8cc63f'
-4,'3','Westsyde','f37421'
-5,'4','Pacific Way','00aeef'
-6,'5','Pineview','fcaf17'
-7,'6','Downtown Loop','00aa47'
-8,'7','Aberdeen','ed1d8f'
-9,'9','Gleneagles','8177b7'
-10,'10','North Shr TRU Express','49176b'
-11,'13','Yellowhead','b2bb1e'
-12,'14','Batchelor Hts','4f6f19'
-13,'16','Juniper Rdg','77af99'
-14,'17','Dallas','e270ab'
-184,'18','Mt Paul','5d87a1'
-590,'70','Pacific Way - School Special','0073ae'
-591,'71','Sahali Express - School Special','f49a5d'
-592,'72','South Kamloops - School Special','b3aa7e'
-593,'73','South Kamloops / Aberdeen - School Special','bf83b9'
-594,'74','Pacific Way - School Special','a54499'
-595,'75','Sahali Secondary - School Special','00b5ad'
-596,'76','Lansdowne - School Special','b06e0e'
-597,'77','Aberdeen - School Special','8e0c3a'
-598,'78','SKS Express - School Special','e31937'
-599,'79','Sahali / Aberdeen - School Special','ac5c3b'
-600,'80','Batchelor Hts - School Special','875d9f'
-601,'81','Westsyde / Batchelor Hts - School Special','7c3f25'
+2,'1','Tranquille','004b8d',50,3
+3,'2','Parkcrest','8cc63f',51,3
+4,'3','Westsyde','f37421',52,3
+5,'4','Pacific Way','00aeef',53,3
+6,'5','Pineview','fcaf17',54,3
+7,'6','Downtown Loop','00aa47',55,3
+8,'7','Aberdeen','ed1d8f',56,3
+9,'9','Gleneagles','8177b7',57,3
+10,'10','North Shr TRU Express','49176b',1567,3
+11,'13','Yellowhead','b2bb1e',1568,3
+12,'14','Batchelor Hts','4f6f19',1569,3
+13,'16','Juniper Rdg','77af99',1570,3
+14,'17','Dallas','e270ab',1571,3
+184,'18','Mt Paul','5d87a1',48877,3
+590,'70','Pacific Way - School Special','0073ae',52748,3
+591,'71','Sahali Express - School Special','f49a5d',52749,3
+592,'72','South Kamloops - School Special','b3aa7e',52750,3
+593,'73','South Kamloops / Aberdeen - School Special','bf83b9',52751,3
+594,'74','Pacific Way - School Special','a54499',52752,3
+595,'75','Sahali Secondary - School Special','00b5ad',52753,3
+596,'76','Lansdowne - School Special','b06e0e',52754,3
+597,'77','Aberdeen - School Special','8e0c3a',52755,3
+598,'78','SKS Express - School Special','e31937',52756,3
+599,'79','Sahali / Aberdeen - School Special','ac5c3b',52757,3
+600,'80','Batchelor Hts - School Special','875d9f',53430,3
+601,'81','Westsyde / Batchelor Hts - School Special','7c3f25',53431,3
