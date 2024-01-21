@@ -53,6 +53,7 @@
                 android:value="@string/gtfs_real_time_for_poi_authority" />
         </provider>
         <!-- STRATEGIC MAPPING PROVIDER -->
+        <!-- DISABLED for all BC Transit
         <provider
             android:name="org.mtransit.android.commons.provider.StrategicMappingProvider"
             android:authorities="@string/strategic_mapping_authority"
@@ -66,6 +67,7 @@
                 android:name="@string/status_provider_target"
                 android:value="@string/strategic_mapping_status_for_poi_authority" />
         </provider>
+        -->
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
