@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <string name="strategic_mapping_api_url">https://nextride.kamloops.bctransit.com/api</string>
-    <string name="strategic_mapping_api_timezone">@string/gtfs_rts_timezone</string>
-    <!-- https://nextride.kamloops.bctransit.com/api/Stop/GetBySearchTerm?term=104354 -->
-    <string name="strategic_mapping_api_search_term">Stop/GetBySearchTerm</string>
-</resources>
